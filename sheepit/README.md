@@ -4,6 +4,12 @@
 Run with environment variables for login and password:
 
 ```shell
+docker run -it -e LOGIN=j6m8 -e PASSWORD=sTXvN1eECcf44BUIMCLKevUt8UQ2gzdnHjzcrcME j6k4m8/sheepit
+```
+
+More configs are available:
+
+```shell
 docker run -it --rm --cpus=6 -e LOGIN=j6m8 -e PASSWORD=sTXvN1eECcf44BUIMCLKevUt8UQ2gzdnHjzcrcME j6k4m8/sheepit
 ```
 
