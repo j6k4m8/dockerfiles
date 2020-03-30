@@ -1,6 +1,8 @@
 # sheepit
 > Spin up a SheepIt renderfarm node instance.
 
+## Usage
+
 Run with environment variables for login and password:
 
 ```shell
